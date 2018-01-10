@@ -1,1 +1,1 @@
-# sparta-js-datatypes
+# Sparta JS Datatypes
